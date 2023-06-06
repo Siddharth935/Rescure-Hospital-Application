@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">hospital</string>
+    <string name="title_activity_maps">नकाशे क्रियाकलाप</string>
+    <string name="enter_your_guardian_name_and_mobile_no">तुमच्या पालकाचे नाव आणि मोबाईल नंबर टाका</string>
+    <string name="enter_your_mother_name">तुमच्या आईचे नाव टाका</string>
+    <string name="enter_your_father_name">तुमच्या वडिलांचे नाव टाका</string>
+    <string name="enter_your_father_mobile_number">तुमच्या वडिलांचा मोबाईल नंबर टाका</string>
+    <string name="enter_your_mother_mobile_number">तुमच्या आईचा मोबाईल नंबर टाका</string>
+    <string name="enter_your_government_id_number">तुमचा सरकारी आयडी क्रमांक टाका</string>
+    <string name="enter_your_aadhar_card_number">तुमचा आधार कार्ड क्रमांक टाका</string>
+    <string name="enter_your_pan_card_number">तुमचा पॅन कार्ड क्रमांक टाका</string>
+    <string name="select_your_file_from_storage_you_can_select_only_pdf">स्टोरेजमधून तुमची फाइल निवडा. तुम्ही फक्त पीडीएफ निवडू शकता</string>
+    <string name="submit">प्रस्तुत करणे</string>
+    <string name="enter_your_driving_licence_number">तुमचा ड्रायव्हिंग लायसन्स क्रमांक टाका</string>
+    <string name="retrive">पुनर्प्राप्त करा</string>
+    <string name="upload">अपलोड करा</string>
+    <string name="click_twice_to_select_the_file">फाईल निवडण्यासाठी दोनदा क्लिक करा</string>
+    <string name="select_your_image">तुमची प्रतिमा निवडा</string>
+    <string name="enter_your_name">आपले नांव लिहा</string>
+    <string name="enter_your_mobile_no">तुमचा मोबाईल नंबर टाका :-</string>
+    <string name="enter_your_mobile_no_optional">तुमचा मोबाईल क्रमांक प्रविष्ट करा (पर्यायी):-</string>
+    <string name="enter_your_email_id">तुमचा ईमेल आयडी टाका</string>
+    <string name="address">पत्ता</string>
+    <string name="enter_your_room_no_building_name">तुमची खोली क्रमांक/ इमारतीचे नाव टाका</string>
+    <string name="pincode">पिन कोड :-</string>
+    <string name="setting">सेटिंग</string>
+    <string name="profile">प्रोफाइल</string>
+    <string name="select_your_language">तुमची भाषा निवडा</string>
+    <string name="welcome">स्वागत आहे</string>
+    <string name="health_detail">आरोग्य तपशील</string>
+    <string name="news">बातम्या</string>
+    <string name="get_current_location">वर्तमान स्थान मिळवा</string>
+    <string name="personal_detail">वैयक्तिक तपशील</string>
+</resources>

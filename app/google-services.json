@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "259616102552",
+    "project_id": "myresure",
+    "storage_bucket": "myresure.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259616102552:android:9f9e32822d05bfd8d8d8ed",
+        "android_client_info": {
+          "package_name": "com.example.hospital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259616102552-sene3qlf42f29503cdc9ds0uqsbtj0kv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hospital",
+            "certificate_hash": "a51a5ac6685806e74f7394ae4a6d28317cea92ac"
+          }
+        },
+        {
+          "client_id": "259616102552-8hhnkhj1id3lbckp3nm3nomf8moc464r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz_-jVCEiRhHL1QMY22zbrGUyCrnsUdEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259616102552-8hhnkhj1id3lbckp3nm3nomf8moc464r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

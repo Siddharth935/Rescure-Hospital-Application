@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">hospital</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="title_activity_maps">Maps Activity</string>
+    <string name="enter_your_guardian_name_and_mobile_no">Enter Your Guardian Name And Mobile No</string>
+    <string name="enter_your_mother_name">Enter Your Mother Name</string>
+    <string name="enter_your_father_name">Enter Your Father Name</string>
+    <string name="enter_your_father_mobile_number">Enter Your Father Mobile Number</string>
+    <string name="enter_your_mother_mobile_number">Enter Your Mother Mobile Number</string>
+    <string name="enter_your_government_id_number">Enter Your Government ID Number</string>
+    <string name="enter_your_aadhar_card_number">Enter Your Aadhar Card Number</string>
+    <string name="enter_your_pan_card_number">Enter Your Pan Card Number</string>
+    <string name="select_your_file_from_storage_you_can_select_only_pdf">Select Your File From Storage. You Can Select Only pdf</string>
+    <string name="submit">Submit</string>
+    <string name="enter_your_driving_licence_number">Enter Your Driving Licence Number</string>
+    <string name="retrive">Retrive</string>
+    <string name="upload">Upload</string>
+    <string name="click_twice_to_select_the_file">Click Twice To Select the file</string>
+    <string name="select_your_image">Select Your Image</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="enter_your_mobile_no">Enter Your Mobile No :-</string>
+    <string name="enter_your_mobile_no_optional">Enter Your Mobile No (optional):-</string>
+    <string name="enter_your_email_id">Enter Your email id</string>
+    <string name="address">Address</string>
+    <string name="enter_your_room_no_building_name">Enter Your Room No/ Building Name</string>
+    <string name="pincode">Pincode :-</string>
+    <string name="setting">Setting</string>
+    <string name="profile">Profile</string>
+    <string name="select_your_language">Select Your Language</string>
+    <string name="welcome">Welcome</string>
+    <string name="health_detail">Health Detail</string>
+    <string name="news">News</string>
+    <string name="get_current_location">Get Current Location</string>
+    <string name="personal_detail">Personal Detail</string>
+    <string name="get_nearby_hospital_and_medical">Get NearBy Hospital And Medical</string>
+    <string name="retrieve_your_pdf">Retrieve Your Pdf</string>
+</resources>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HealthDetail">
+
+    <include
+        android:id="@+id/healthToolbar"
+        layout="@layout/healthdetailcustomtoolbar"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/healthToolbar"
+        android:fillViewport="true"
+        android:fitsSystemWindows="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/alegreya_sc"
+                android:text="@string/select_your_file_from_storage_you_can_select_only_pdf"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/edit"
+                android:background="@drawable/clicktwice"
+                android:layout_marginTop="60dp"
+                android:layout_margin="20dp"
+                android:textColorHint="@color/black"
+                android:fontFamily="@font/alegreya_sc"
+                android:hint="@string/click_twice_to_select_the_file"
+                android:includeFontPadding="false"
+                android:letterSpacing="0.02"
+                android:textSize="16sp"
+                android:textColor="@color/black"
+                android:padding="12dp"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginEnd="20dp"
+                android:textSize="19sp"
+                android:includeFontPadding="false"
+                android:letterSpacing="0.06"
+                android:textAllCaps="false"
+                style="@style/Widget.Material3.Button.OutlinedButton"
+                android:text="@string/upload"
+                android:id="@+id/uploadbtn"
+                android:fontFamily="@font/alegreya_sc"
+                android:textColor="@color/black"/>
+
+<!--            <Button-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_marginStart="20dp"-->
+<!--                android:layout_marginEnd="20dp"-->
+<!--                android:layout_marginTop="40dp"-->
+<!--                android:textSize="19sp"-->
+<!--                android:includeFontPadding="false"-->
+<!--                android:letterSpacing="0.06"-->
+<!--                android:textAllCaps="false"-->
+<!--                android:id="@+id/btnRead"-->
+<!--                style="@style/Widget.Material3.Button.OutlinedButton"-->
+<!--                android:text="@string/retrive"-->
+<!--                android:fontFamily="@font/alegreya_sc"-->
+<!--                android:onClick="retrievePDFs"-->
+<!--                android:textColor="@color/black"/>-->
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Patient Deatil"
+                android:layout_gravity="center"
+                android:fontFamily="@font/alegreya_sc"
+                android:textSize="20sp"
+                android:layout_marginTop="10dp"
+                android:textColor="@color/black"
+                android:id="@+id/link"/>
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>
